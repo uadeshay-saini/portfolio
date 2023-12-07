@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f71639da.css",
-    "main.js": "/portfolio/static/js/main.02fbcdee.js",
+    "main.js": "/portfolio/static/js/main.e4f42f81.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/MyPhoto.png": "/portfolio/static/media/MyPhoto.31f80ad09fee00bb52f5.png",
     "static/media/ScoNews.jpeg": "/portfolio/static/media/ScoNews.f421f807c138f7b5b187.jpeg",
     "static/media/MyNotebook.jpeg": "/portfolio/static/media/MyNotebook.58b3852058dc25b5eae7.jpeg",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.49688f57718cfe4e9950.pdf",
+    "static/media/Uadeshay_Saini_Resume.pdf": "/portfolio/static/media/Uadeshay_Saini_Resume.43f7ebf5fa8a4e4238a8.pdf",
     "index.html": "/portfolio/index.html",
     "main.f71639da.css.map": "/portfolio/static/css/main.f71639da.css.map",
-    "main.02fbcdee.js.map": "/portfolio/static/js/main.02fbcdee.js.map",
+    "main.e4f42f81.js.map": "/portfolio/static/js/main.e4f42f81.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f71639da.css",
-    "static/js/main.02fbcdee.js"
+    "static/js/main.e4f42f81.js"
   ]
 }
