@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume from "./Resume.pdf"
+import Uadeshay_Saini_Resume from "./Uadeshay_Saini_Resume.pdf"
 import { scroller} from 'react-scroll';
 const Navbar = () => {
 
@@ -58,7 +58,7 @@ const Navbar = () => {
             <a className="inline-block text-black no-underline hover:text-gray-800 hover:text-underline py-2 px-4" href="#">link</a>
           </li> */}
         </ul>
-        <a href={Resume}  target="_blank" rel="noopener noreferrer">
+        <a href={Uadeshay_Saini_Resume}  target="_blank" rel="noopener noreferrer">
         <button
           id="navAction"
           className="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-md mt-4 lg:mt-0 py-4 px-8 shadow opacity-70 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"

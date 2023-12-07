@@ -69,7 +69,7 @@ const MinorProjects = () => {
             </a>
           </div>
           <div className='flex items-center text-gray-800 pt-3 justify-between'>
-          <a className=' inline-block' target="_blank" href='https://uadeshay-saini.github.io/MyNotebook/'>
+          <a className=' inline-block' target="_blank" href='https://uadeshay-saini.github.io/RockPaperScissor/'>
     <button className=" flex bg-white hover:bg-gray-100 px-4 py-2 rounded-md transition duration-300 ease-in-out flex items-center space-x-2">
       <svg
         xmlns="http://www.w3.org/2000/svg"
